@@ -1,5 +1,4 @@
-# google-shared-drive-templates
-Shared Drive Theme Templates
+# google-shared-drive-templates | Shared Drive Theme Templates
 
 Mặc dù Google cung cấp một số chủ đề sẵn có, nhưng chúng có thể đơn điệu và hỗn độn khi sử dụng cho hệ thống Shared Drive của công ty. Để khắc phục vấn đề này, việc tạo một chủ đề Shared Drive riêng có thể giúp phân biệt và nhận dạng các ổ đĩa nhóm một cách tốt hơn. Bằng cách gắn một hình ảnh đại diện tùy chỉnh cho mỗi Shared Drive, chúng ta có thể dễ dàng nhận ra và tìm kiếm Drive mà mình cần.
 
